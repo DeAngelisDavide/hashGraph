@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1644879760 source:c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\nodo.cpp
+	"iostream"
+	"nodo.h"
+
+1644879761 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\include\nodo.h
+
+1644934208 source:c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\linkedlist.cpp
+	"linkedList.h"
+
+1644934208 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\include\linkedlist.h
+	"../src/nodo.cpp"
+
+1644879760 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\nodo.cpp
+	"iostream"
+	"nodo.h"
+
+1644879760 source:c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\vertice.cpp
+	"vertice.h"
+
+1644879906 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\include\vertice.h
+	"../src/linkedList.cpp"
+	"iostream"
+	"limits"
+
+1644934208 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\linkedlist.cpp
+	"linkedList.h"
+
+1644928813 source:c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\hashgraph.cpp
+	"hashGraph.h"
+
+1644928813 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\include\hashgraph.h
+	"../src/hashTable.cpp"
+
+1644888965 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\hashtable.cpp
+	"hashTable.h"
+
+1644880618 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\include\hashtable.h
+	<cmath>
+	"../src/vertice.cpp"
+
+1644879760 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\vertice.cpp
+	"vertice.h"
+
+1644888965 source:c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\hashtable.cpp
+	"hashTable.h"
+
+1644938833 source:c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"src/hashGraph.cpp"
+
+1644928813 c:\users\davide\desktop\traccia 2- davide de angelis\hashgraph\src\hashgraph.cpp
+	"hashGraph.h"
+
